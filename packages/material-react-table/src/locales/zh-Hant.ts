@@ -67,6 +67,7 @@ export const MRT_Localization_ZH_HANT: MRT_Localization = {
   pinToRight: '固定至右邊',
   resetColumnSize: '重置欄位大小',
   resetOrder: '重置排序',
+  resetPins: '復位引腳', // generated via translate.google.com
   rowActions: '橫列動作',
   rowNumber: '#',
   rowNumbers: '橫列編號',

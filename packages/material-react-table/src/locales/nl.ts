@@ -67,6 +67,7 @@ export const MRT_Localization_NL: MRT_Localization = {
   pinToRight: 'Rechts vastzetten',
   resetColumnSize: 'Kolombreedte resetten',
   resetOrder: 'Volgorde resetten',
+  resetPins: 'Pinnen resetten', // generated via translate.google.com
   rowActions: 'Rij acties',
   rowNumber: '#',
   rowNumbers: 'Rij cijfers',

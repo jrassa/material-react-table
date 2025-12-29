@@ -67,6 +67,7 @@ export const MRT_Localization_RU: MRT_Localization = {
   pinToRight: 'Прикрепить справа',
   resetColumnSize: 'Сбросить размер колонок',
   resetOrder: 'Сбросить порядок',
+  resetPins: 'Сброс контактов', // generated via translate.google.com
   rowActions: 'Действия строки',
   rowNumber: '#',
   rowNumbers: 'Количество строк',

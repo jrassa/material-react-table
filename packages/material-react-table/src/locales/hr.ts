@@ -67,6 +67,7 @@ export const MRT_Localization_HR: MRT_Localization = {
   pinToRight: 'Prikači na desno',
   resetColumnSize: 'Resetiraj veličinu stupca',
   resetOrder: 'Resetiraj redoslijed',
+  resetPins: 'Resetiraj pinove', // generated via translate.google.com
   rowActions: 'Radnje retka',
   rowNumber: '#',
   rowNumbers: 'Brojevi redaka',

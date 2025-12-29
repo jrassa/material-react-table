@@ -67,6 +67,7 @@ export const MRT_Localization_SV: MRT_Localization = {
   pinToRight: 'Fäst till höger',
   resetColumnSize: 'Återställ kolumnstorlek',
   resetOrder: 'Återställ ordning',
+  resetPins: 'Återställ pinnar', // generated via translate.google.com
   rowActions: 'Radåtgärder',
   rowNumber: '#',
   rowNumbers: 'Radnummer',

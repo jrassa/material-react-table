@@ -67,6 +67,7 @@ export const MRT_Localization_AR: MRT_Localization = {
   pinToRight: 'تثبيت على اليمين',
   resetColumnSize: 'إعادة تعيين حجم العمود',
   resetOrder: 'إعادة تعيين',
+  resetPins: 'إعادة ضبط الدبابيس', // generated via translate.google.com
   rowActions: 'إجراءات الصف',
   rowNumber: '#',
   rowNumbers: 'أرقام الصفوف',

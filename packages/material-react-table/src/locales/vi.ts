@@ -67,6 +67,7 @@ export const MRT_Localization_VI: MRT_Localization = {
   pinToRight: 'Ghim sang phải',
   resetColumnSize: 'Đặt lại kích thước cột',
   resetOrder: 'Đặt lại thứ tự cột',
+  resetPins: 'Đặt lại chân', // generated via translate.google.com
   rowActions: 'Thao tác',
   rowNumber: '#',
   rowNumbers: 'Số hàng',

@@ -67,6 +67,7 @@ export const MRT_Localization_EL: MRT_Localization = {
   pinToRight: 'Καρφίτσωμα δεξιά',
   resetColumnSize: 'Επαναφορά μεγέθους στήλης',
   resetOrder: 'Επαναφορά ταξινόμησης',
+  resetPins: 'Επαναφορά ακίδων', // generated via translate.google.com
   rowActions: 'Ενέργειες γραμμής',
   rowNumber: '#',
   rowNumbers: 'Αριθμοί γραμμών',

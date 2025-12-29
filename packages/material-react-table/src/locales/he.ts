@@ -67,6 +67,7 @@ export const MRT_Localization_HE: MRT_Localization = {
   pinToRight: 'נעץ לימין',
   resetColumnSize: 'איפוס גודל עמודה',
   resetOrder: 'איפוס סדר',
+  resetPins: 'איפוס פינים', // generated via translate.google.com
   rowActions: 'פעולות שורה',
   rowNumber: '#',
   rowNumbers: 'מספרי שורות',

@@ -68,6 +68,7 @@ export const MRT_Localization_CS: MRT_Localization = {
   pinToRight: 'Připnout doprava',
   resetColumnSize: 'Resetovat šířku sloupců',
   resetOrder: 'Resetovat pořadí',
+  resetPins: 'Obnovit piny', // generated via translate.google.com
   rowActions: 'Akce řádky',
   rowNumber: '#',
   rowNumbers: 'Čísla řádek',

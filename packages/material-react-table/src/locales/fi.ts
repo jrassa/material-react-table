@@ -68,6 +68,7 @@ export const MRT_Localization_FI: MRT_Localization = {
   pinToRight: 'Kiinnitä oikealle',
   resetColumnSize: 'Nollaa sarakkeen koko',
   resetOrder: 'Nollaa järjestys',
+  resetPins: 'Nollaa nastat', // generated via translate.google.com
   rowActions: 'Rivitoiminnot',
   rowNumber: '#',
   rowNumbers: 'Rivinumerot',

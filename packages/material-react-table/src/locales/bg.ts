@@ -67,6 +67,7 @@ export const MRT_Localization_BG: MRT_Localization = {
   pinToRight: 'Закачи отдясно',
   resetColumnSize: 'Нулиране на размера на колоната',
   resetOrder: 'Нулиране на реда',
+  resetPins: 'Нулиране на пинове', // generated via translate.google.com
   rowActions: 'Действия за редове',
   rowNumber: '#',
   rowNumbers: 'Номера на редовете',

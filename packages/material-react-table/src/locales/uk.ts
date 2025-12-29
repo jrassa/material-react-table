@@ -67,6 +67,7 @@ export const MRT_Localization_UK: MRT_Localization = {
   pinToRight: 'Закріпити праворуч',
   resetColumnSize: 'Скинути розмір стовпця',
   resetOrder: 'Скинути порядок',
+  resetPins: 'Скинути піни', // generated via translate.google.com
   rowActions: 'Дії рядка',
   rowNumber: '№',
   rowNumbers: 'Кількість рядків',

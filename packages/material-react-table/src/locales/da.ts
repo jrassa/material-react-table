@@ -67,6 +67,7 @@ export const MRT_Localization_DA: MRT_Localization = {
   pinToRight: 'Fastgør til højre',
   resetColumnSize: 'Nulstil kolonnebredde',
   resetOrder: 'Nulstil rækkefølge',
+  resetPins: 'Nulstil pins', // generated via translate.google.com
   rowActions: 'Rækkehandlinger',
   rowNumber: '#',
   rowNumbers: 'Rækketal',
