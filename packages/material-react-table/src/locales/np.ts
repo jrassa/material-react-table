@@ -68,6 +68,7 @@ export const MRT_Localization_NP: MRT_Localization = {
   pinToRight: 'दायाँतर्फ पिन गर्नुहोस्',
   resetColumnSize: 'स्तम्भ आकार रिसेट गर्नुहोस्',
   resetOrder: 'क्रम रिसेट गर्नुहोस्',
+  resetPins: 'पिनहरू रिसेट गर्नुहोस्', // generated via translate.google.com
   rowActions: 'पंक्तिका कार्यहरू',
   rowNumber: 'क्र.सं.',
   rowNumbers: 'क्रमाङ्क',

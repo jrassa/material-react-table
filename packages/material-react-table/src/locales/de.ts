@@ -67,6 +67,7 @@ export const MRT_Localization_DE: MRT_Localization = {
   pinToRight: 'Rechts anheften',
   resetColumnSize: 'Spaltengröße zurücksetzen',
   resetOrder: 'Reihenfolge zurücksetzen',
+  resetPins: 'Pins zurücksetzen', // generated via translate.google.com
   rowActions: 'Zeilen-Aktionen',
   rowNumber: '#',
   rowNumbers: 'Zeilennumern',

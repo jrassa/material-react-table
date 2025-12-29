@@ -68,6 +68,7 @@ export const MRT_Localization_ET: MRT_Localization = {
   pinToRight: 'Kinnita paremale',
   resetColumnSize: 'Lähtesta veeru suurus',
   resetOrder: 'Lähtesta järjekord',
+  resetPins: 'Lähtesta nööpnõelad', // generated via translate.google.com
   rowActions: 'Rea toimingud',
   rowNumber: '#',
   rowNumbers: 'Rea numbrid',

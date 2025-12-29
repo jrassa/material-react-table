@@ -67,6 +67,7 @@ export const MRT_Localization_RO: MRT_Localization = {
   pinToRight: 'Fixează la dreapta',
   resetColumnSize: 'Resetează dimensiune coloană',
   resetOrder: 'Resetează ordine',
+  resetPins: 'Resetați pinii', // generated via translate.google.com
   rowActions: 'Acțiunile liniei',
   rowNumber: '#',
   rowNumbers: 'Numere linie',

@@ -67,6 +67,7 @@ export const MRT_Localization_AZ: MRT_Localization = {
   pinToRight: 'Sağa Sabitlə',
   resetColumnSize: 'Sütun Ölçüsünü Sıfırla',
   resetOrder: 'Sıranı Temizlə',
+  resetPins: 'Pinləri sıfırlayın', // generated via translate.google.com
   rowActions: 'Sətir Əməliyyatları',
   rowNumber: '#',
   rowNumbers: 'Sətir Sayl',

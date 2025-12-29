@@ -67,6 +67,7 @@ export const MRT_Localization_JA: MRT_Localization = {
   pinToRight: '右に固定',
   resetColumnSize: '列のサイズをリセット',
   resetOrder: '並べ替えをリセット',
+  resetPins: 'リセットピン', // generated via translate.google.com
   rowActions: '行の操作',
   rowNumber: 'No.',
   rowNumbers: '行番号',

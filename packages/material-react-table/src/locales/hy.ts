@@ -67,6 +67,7 @@ export const MRT_Localization_HY: MRT_Localization = {
   pinToRight: 'Կցել աջից',
   resetColumnSize: 'Չեղարկել սյունակի չափը',
   resetOrder: 'Չեղարկել կարգը',
+  resetPins: 'Վերագործարկեք pin-երը', // generated via translate.google.com
   rowActions: 'Տողի գործողությունները',
   rowNumber: '#',
   rowNumbers: 'Տողերի քանակը',

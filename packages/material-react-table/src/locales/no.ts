@@ -68,6 +68,7 @@ export const MRT_Localization_NO: MRT_Localization = {
   or: 'eller',
   resetColumnSize: 'Tilbakestill kolonnebredde',
   resetOrder: 'Tilbakestill rekkefølge',
+  resetPins: 'Tilbakestill pinner', // generated via translate.google.com
   rowActions: 'Radhandlinger',
   rowNumber: '#',
   rowNumbers: 'Radnumre',

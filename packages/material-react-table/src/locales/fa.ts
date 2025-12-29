@@ -67,6 +67,7 @@ export const MRT_Localization_FA: MRT_Localization = {
   pinToRight: 'پین به راست',
   resetColumnSize: 'تنظیم مجدد اندازه ستون',
   resetOrder: 'بازنشانی سفارش',
+  resetPins: 'پین‌ها را ریست کنید', // generated via translate.google.com
   rowActions: 'اقدامات ردیف',
   rowNumber: '#',
   rowNumbers: 'اعداد ردیف',

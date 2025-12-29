@@ -67,6 +67,7 @@ export const MRT_Localization_IT: MRT_Localization = {
   pinToRight: 'Blocca a destra',
   resetColumnSize: 'Resetta dimensione colonna',
   resetOrder: 'Resetta ordine',
+  resetPins: 'Reimposta il PIN', // generated via translate.google.com
   rowActions: 'Azioni riga',
   rowNumber: '#',
   rowNumbers: 'Righe',

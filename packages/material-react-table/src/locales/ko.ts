@@ -67,6 +67,7 @@ export const MRT_Localization_KO: MRT_Localization = {
   pinToRight: '오른쪽에 고정',
   resetColumnSize: '열 크기 초기화',
   resetOrder: '순서 초기화',
+  resetPins: '리셋 핀', // generated via translate.google.com
   rowActions: '행 동작',
   rowNumber: '#',
   rowNumbers: '행 번호',

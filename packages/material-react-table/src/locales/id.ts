@@ -68,6 +68,7 @@ export const MRT_Localization_ID: MRT_Localization = {
   pinToRight: 'Sematkan ke kanan',
   resetColumnSize: 'Reset ukuran kolom',
   resetOrder: 'Reset urutan',
+  resetPins: 'Pin reset', // generated via translate.google.com
   rowActions: 'Aksi Baris',
   rowNumber: '#',
   rowNumbers: 'Nomor Baris',

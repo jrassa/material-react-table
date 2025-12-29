@@ -67,6 +67,7 @@ export const MRT_Localization_HU: MRT_Localization = {
   pinToRight: 'Rögzítés jobbra',
   resetColumnSize: 'Oszlop méretének alaphelyzetbe állítása',
   resetOrder: 'Rendezés alaphelyzetbe állítása',
+  resetPins: 'PIN-kódok visszaállítása', // generated via translate.google.com
   rowActions: 'Sor műveletek',
   rowNumber: '#',
   rowNumbers: 'Sor számok',
